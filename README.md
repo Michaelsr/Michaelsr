@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Commit Score](./badges/commit-score.svg)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Michaelsr)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelsr)](https://github.com/Michaelsr/github-readme-stats)
 
 <!--
 **Michaelsr/Michaelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
