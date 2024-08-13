@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Calculate commit score
         id: score
@@ -22,7 +22,7 @@ jobs:
           echo "commit_score=$SCORE" >> $GITHUB_ENV
 
       - name: Create Badge
-        uses: mikepenz/github-action-badge@v1.5.1
+        uses: k1LoW/octocov-action@v1
         with:
           label: 'Commit Score'
           value: ${{ env.commit_score }}
