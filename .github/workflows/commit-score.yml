@@ -22,14 +22,11 @@ jobs:
           echo "commit_score=$SCORE" >> $GITHUB_ENV
 
       - name: Create Badge
-        uses: k1LoW/octocov-action@v1
+        uses: mikepenz/github-action-badge@v1.5.1
         with:
           label: 'Commit Score'
-          value: ${{ env.commit_score }}
+          message: ${{ env.commit_score }}
           color: green
-          logo: 'git'
-          logoColor: 'white'
-          output: 'badges/commit-score.svg'
 
       - name: Push badge to repo
         run: |
