@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Commit Score](./badges/commit-score.svg)
+
 <!--
 **Michaelsr/Michaelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
