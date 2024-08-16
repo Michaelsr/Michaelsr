@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Michaelsr)
+![Anurag's github stats]([https://github-readme-stats.vercel.app/api?username=Michaelsr](https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=darkhub&title=Experience))
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelsr)](https://github.com/Michaelsr/github-readme-stats)
 
