@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Trofeo de Experiencia](https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=darkhub&title=Experience)
-
+![Trofeo de Experiencia](https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=radical&title=Experience)
 ---
 <!--
 **Michaelsr/Michaelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
