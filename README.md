@@ -3,8 +3,6 @@
 ![Trofeo de Experiencia](https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=darkhub&title=Experience)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelsr)](https://github.com/Michaelsr/github-readme-stats)
-
 <!--
 **Michaelsr/Michaelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
