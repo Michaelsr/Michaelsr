@@ -1,6 +1,6 @@
 ## Hello world 👋
 ---
-## 🏆 Trofeo de Experiencia
+## 🏆 Trofeos
 
 <img src="https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=darkhub" alt="Trofeo de Commits" width="3000" />
 
