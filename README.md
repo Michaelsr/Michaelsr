@@ -2,6 +2,7 @@
 ---
 ## 🏆 Trofeo de Experiencia
 
+![Trofeo de Experiencia](https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=darkhub&title=Experience)
 <img src="https://github-profile-trophy.vercel.app/?username=Michaelsr&theme=radical&title=Experience" alt="Trofeo de Commits" width="3000" />
 
 <!--
