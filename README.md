@@ -1,6 +1,13 @@
 ## Hello my name is Michael👋
 ---
-![stats](https://github-readme-stats.vercel.app/api?username=the-yastreb&show_icons=true&hide=contribs,issues&theme=github_dark)
+![stats](https://github-readme-stats.vercel.app/api?username=the-yastreb&show_icons=true&hide=contribs,issues&theme=github_dark).
+
+---
+
+## 👨‍💻 About me
+I am a **backend programmer** in constant learning, always looking to improve my skills and adapt to new technologies. I am passionate about creating scalable and efficient solutions. I am committed to continuous growth and enjoy facing technical challenges that allow me to learn and evolve as a developer.
+
+---
 
 ## 🛠️ Technologies and tools
 
